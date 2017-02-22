@@ -15,6 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "vibrant": "*"
+    "color-thief": "^2.0.1"
   }
 }
